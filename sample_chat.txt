@@ -1,0 +1,20 @@
+12/10/26, 9:01 pm - Messages and calls are end-to-end encrypted. No one outside of this chat can read them.
+12/10/26, 9:02 pm - Rahul: guys, project demo is on Friday right?
+12/10/26, 9:03 pm - Priya: yes 11 am, prof said slides must be ready by Thursday night
+12/10/26, 9:03 pm - Aman: bro I haven't even started the backend lol
+12/10/26, 9:04 pm - Rahul: Aman please, we need the API working by Wednesday
+12/10/26, 9:05 pm - Aman: ok ok I'll finish the login + database part by Wednesday
+12/10/26, 9:06 pm - Priya: I'll make the PPT. Rahul can you send me the architecture diagram?
+12/10/26, 9:06 pm - Rahul: sure, sending tonight
+12/10/26, 9:07 pm - Neha: sorry just saw this, I can do the testing and the report
+12/10/26, 9:08 pm - Neha: but who is presenting?
+12/10/26, 9:09 pm - Priya: not decided yet
+12/10/26, 9:10 pm - Rahul: <Media omitted>
+12/10/26, 9:10 pm - Rahul: there's the diagram. Let's decide presenter tomorrow
+13/10/26, 8:15 am - Aman: update: login done, working on db
+13/10/26, 8:20 am - Priya: nice! should we meet in the library at 5?
+13/10/26, 8:21 am - Neha: 5 works for me
+13/10/26, 8:22 am - Rahul: I have lab till 5:30, can we do 6?
+13/10/26, 8:23 am - Priya: ok 6 pm library then. Rahul you'll present since you know the
+architecture best
+13/10/26, 8:24 am - Rahul: fine, done

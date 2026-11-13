@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+# never commit real chats
+*.txt
+!sample_chat.txt
+!requirements.txt
